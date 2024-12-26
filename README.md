@@ -40,18 +40,22 @@ From the above characteristic table, we can directly write the next state equati
 
 
 **PROGRAM**
+![WhatsApp Image 2024-12-26 at 14 01 55_709c254b](https://github.com/user-attachments/assets/52d42a11-8d61-4fce-8b2d-d33d8407001f)
 
-![exp9 code](https://github.com/user-attachments/assets/1e6a51c2-7122-4f8e-a8ab-580de0040cbd)
+
+
+
 
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-![exp9 diagram](https://github.com/user-attachments/assets/62820919-4c73-4205-9f71-a6928559d9b3)
+![WhatsApp Image 2024-12-26 at 14 01 56_dd41c136](https://github.com/user-attachments/assets/8ea33a1f-c201-4737-af96-2d124397c146)
+
+
 
 
 **WAVEFORM**
-
-![exp9 waveform](https://github.com/user-attachments/assets/0946ab80-18cb-44e1-8a03-227f8fb5ab55)
+![WhatsApp Image 2024-12-26 at 14 01 56_1aa46d4b](https://github.com/user-attachments/assets/714d64cd-2910-4531-af64-f4edd8261f16)
 
 
 **RESULTS**
