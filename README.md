@@ -40,6 +40,9 @@ From the above characteristic table, we can directly write the next state equati
 
 
 **PROGRAM**
+
+Developed by:RAJESHWARI.M Register number:24900813
+
 ![WhatsApp Image 2024-12-26 at 14 01 55_709c254b](https://github.com/user-attachments/assets/52d42a11-8d61-4fce-8b2d-d33d8407001f)
 
 
